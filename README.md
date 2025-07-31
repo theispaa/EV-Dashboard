@@ -4,8 +4,9 @@ This project presents an interactive dashboard built using Dash and Plotly. It w
 
 ## 📸 Screenshots
 
-![Dashboard overview](images/dashboard_overview.png)
-![Charging station map](images/dashboard_map.png)
+![Dashboard overview](images/Screenshot_overview.png)
+![Denmark range map](images/Screenshot_map_range.png)
+![Denmark range map with Charging Stations](images/Screenshot_map_stations.png)
 
 > *(Replace with your actual screenshots and filenames)*
 
