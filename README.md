@@ -8,7 +8,6 @@ This project presents an interactive dashboard built using Dash and Plotly. It w
 ![Denmark range map](images/Screenshot_map_range.png)
 ![Denmark range map with Charging Stations](images/Screenshot_map_stations.png)
 
-> *(Replace with your actual screenshots and filenames)*
 
 ## 🔍 Key Features
 
@@ -28,8 +27,11 @@ I welcome any suggestions for optimizations or improvements – especially ideas
 ## 🛠 Technologies Used
 
 - Python
-- Dash & Plotly
-- Pandas & GeoPandas
-- GeoJSON
+  - Dash & Plotly
+  - Pandas & GeoPandas
+  - GeoJSON
+  - Networkx
+  - Numpy
+  - osmnx
 
 
